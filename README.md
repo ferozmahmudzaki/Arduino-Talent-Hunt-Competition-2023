@@ -1,6 +1,6 @@
 # Arduino-Talent-Hunt-Competition-2023
-**Challenge 1 Solutions:
-**1. Automated Watering System:
+Challenge 1 Solutions:
+1. Automated Watering System:
 Explore Nishat's innovative solution to automate the irrigation process using Arduino. The repository includes a detailed video demonstration and simulation of the Arduino circuit designs for the automated watering system. The provided materials showcase the code, circuit schematics, and an engaging video explaining the implementation.
 
 Files:
@@ -27,8 +27,8 @@ Status_Display_Simulation.mp4: Video showcasing the integrated system with the L
 ![Preventing Unauthorized Pump Activation](https://github.com/ferozmahmudzaki/Arduino-Talent-Hunt-Competition-2023/assets/71099757/694a50b6-83dd-4082-bbfd-ff725680d990)
 
 
-**Challenge 2 Solution:
-**Problem 
+Challenge 2 Solution:
+Problem 
 Embark on a journey of creativity and problem-solving as a self-proposed challenge is addressed. The repository includes a video presentation, simulation, and code for a unique problem and its practical solution. The chosen problem adheres to realism, simplicity, and effective presentation.
 
 
